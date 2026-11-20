@@ -2,7 +2,7 @@
    Day 3: change the two colours, check contrast, then switch on the media query. */
 
 :root {
-  --main-colour: #1a2a3a;    /* header background */
+  --main-colour: ;  Powder Blue: #B6D0E2  /header background */
   --accent-colour: #b45f06;  /* buttons and focus outline; passes 4.5:1 on white */
 }
 
@@ -13,6 +13,8 @@ body {
   color: #1a1a1a;
   background: #ffffff;
 }
+
+
 
 header {
   background: var(--main-colour);
