@@ -2,9 +2,10 @@
    Day 3: change the two colours, check contrast, then switch on the media query. */
 
 :root {
-  --main-colour:Midnight Blue: #191970 / header */
+  --main-colour:Midnight Blue: #191970 /* header background*/
   --accent-colour:Forest Green: #228B22 (RGB: 34, 139, 34)/* buttons and focus outline; passes 4.5:1 on white */
 }
+
 
 body {
   font-family: 
