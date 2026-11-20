@@ -3,7 +3,7 @@
 
 :root {
   --main-colour:  Powder Blue: #B6D0E2  /header background */
-  --accent-colour: Powder Blue: #B6D0E2; /* buttons and focus outline; passes 4.5:1 on white */
+  --accent-colour: Navy Blue: #000080 /* buttons and focus outline; passes 4.5:1 on white */
 }
 
 body {
