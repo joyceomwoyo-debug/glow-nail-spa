@@ -3,7 +3,7 @@
 
 :root {
   --main-colour:  /* header background*/
-  --accent-colour:Forest Green: #228B22 (RGB: 34, 139, 34)/* buttons and focus outline; passes 4.5:1 on white */
+  --accent-colour:Forest Green: #228B22;/* buttons and focus outline; passes 4.5:1 on white */
 }
 
 
