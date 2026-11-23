@@ -10,7 +10,7 @@ let isOpen = false;
 
 // 3. When the button is clicked, run this function.
 // Only run this on a page that has the button.
-if (toggleButton) {
+if (toggleButton) 
   toggleButton.addEventListener("click", function () {
     if (isOpen) {
       details.hidden = true;
