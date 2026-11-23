@@ -37,6 +37,6 @@ if (list) {
     li.textContent = item;
     list.appendChild(li);
   }
-  console.log("Items shown:", items.length);
+  console.log("Items shown:", "items shown:",);
 }
 
