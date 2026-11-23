@@ -2,7 +2,7 @@
    Day 3: change the two colours, check contrast, then switch on the media query. */
 
 :root {
-  --main-colour: 8B22;/* header background*/
+  --main-colour:#E6E6FA;/* header background*/
   --accent-colour:#0047AB;/* buttons and focus outline; passes 4.5:1 on white */
 }
 
