@@ -1,4 +1,4 @@
-// Pathfinder: Web Creator starter script.
+// Pathfinder: Web Cr
 // Day 1: this already works on your site. Day 4: you read it line by line and change it.
 
 // 1. Find the button and the box in the page. The page the browser built is called the DOM.
