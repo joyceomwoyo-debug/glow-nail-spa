@@ -79,7 +79,7 @@ if (dataList) {
 
   if (free.length === 0) {
     const li = document.createElement("li");
-    li.textContent = "No clubs match";
+    li.textContent ="No clubs match";
     filterList.appendChild(li);
   }
 }
