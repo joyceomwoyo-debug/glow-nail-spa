@@ -14,7 +14,7 @@ body {
   color: #1e3b1c;
   margin: 0;
   
-  background: #D7C6E1;
+  background color :#D7C6E1;
 }
   
 
@@ -24,12 +24,12 @@ body {
 
 header {
   background: var(--main-colour);
-  color: #ffffff;
+  color: #E8D6B3;
   padding: 16px;
 }
 
 header h1 {
-  margin: 0 0 8px;
+  
 }
 
 /* Flexbox puts the three links in a row with a gap between them */
