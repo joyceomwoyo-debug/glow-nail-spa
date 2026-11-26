@@ -47,3 +47,15 @@ if (dataList) {
     filterList.appendChild(li);
   }
 }
+const items = ["Clean tools every time", "Clear prices before we start", "A friendly welcome", "Walk in, no booking needed"];
+const list = document.querySelector("#item-list");
+
+// Only run this on a page that has the list.
+if (list) {
+  for (const item of items) {
+    const li = document.createElement("li");
+    li.textContent = item;
+    list.appendChild(li);
+  }
+  console.log("Items shown:", items.length);
+}
