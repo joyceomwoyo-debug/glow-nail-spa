@@ -41,3 +41,17 @@ if (list) {
   console.log("Items shown:", items.length);
 }
 
+const services = [
+  { name: "Quick Hand Tidy",      category: "Manicure", priceKsh: 600,  minutes: 25 },
+  { name: "Classic Manicure",     category: "Manicure", priceKsh: 900,  minutes: 40 },
+  { name: "Gel Manicure",         category: "Manicure", priceKsh: 1500, minutes: 60 },
+  { name: "Classic Pedicure",     category: "Pedicure", priceKsh: 1200, minutes: 50 },
+  { name: "Gel Pedicure",         category: "Pedicure", priceKsh: 1800, minutes: 65 },
+  { name: "Spa Pedicure",         category: "Pedicure", priceKsh: 2200, minutes: 80 },
+  { name: "Two Accent Nails",     category: "Nail art", priceKsh: 500,  minutes: 20 },
+  { name: "Stripes and Dots",     category: "Nail art", priceKsh: 900,  minutes: 40 },
+  { name: "Full Set Design",      category: "Nail art", priceKsh: 1600, minutes: 75 },
+  { name: "Cuticle Care",         category: "Care",     priceKsh: 500,  minutes: 20 },
+  { name: "Hand and Arm Massage", category: "Care",     priceKsh: 700,  minutes: 30 },
+  { name: "Gel Removal",          category: "Care",     priceKsh: 500,  minutes: 30 }
+];
